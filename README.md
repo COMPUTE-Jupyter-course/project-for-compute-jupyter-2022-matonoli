@@ -2,9 +2,9 @@
 
 # Looking at particles detected at ALICE with Jupyter Notebooks
 
-_© 2023, Oliver M
+_© 2023, Oliver M_
 
-This project was created as a final project submission in the course Reproducible and Interactive Data Science taught at Lund University._
+_This project was created as a final project submission in the course Reproducible and Interactive Data Science taught at Lund University._
 
 ## Abstract:
 
