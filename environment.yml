@@ -4,19 +4,15 @@ channels:
 dependencies:
   - python=3
   - matplotlib
-  - bokeh=2
   - ipywidgets
   - notebook
   - numpy
-  - openpyxl
   - pandas
   - pip
   - scipy
   - seaborn
   - pip
-  - xlrd
   - lxml
-  - cryptography
   - simplegeneric
   - cython
   - geopandas
