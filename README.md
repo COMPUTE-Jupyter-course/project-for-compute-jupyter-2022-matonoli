@@ -1,5 +1,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/COMPUTE-Jupyter-course/project-for-compute-jupyter-2022-matonoli/main?labpath=matonoha.ipynb)
 
+[![DOI](https://zenodo.org/badge/595174848.svg)](https://zenodo.org/badge/latestdoi/595174848)
+
+
 # Looking at particles detected at ALICE with Jupyter Notebooks
 
 _© 2023, Oliver M_
